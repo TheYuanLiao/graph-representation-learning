@@ -3,3 +3,6 @@
 dbs
 *.pyc
 .ipynb_checkpoints
+colab_notebooks/dataset
+colab_notebooks/enzymes
+colab_notebooks/ogbn-arxiv_node.csv
